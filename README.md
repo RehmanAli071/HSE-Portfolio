@@ -16,9 +16,9 @@ Experienced HSE Officer with 7+ years in workplace safety, environmental complia
 - Chemical risk assessments
 
 ### Interloop Ltd. (7 Years)
-- Admin & Utilities Supervisor
-- Toe Closing & Stitching Department
-- Store In-Charge roles with safety responsibility
+- Health and Safety / coordinator / Supervisor
+- EHS Department
+- Overseeing toe-closing operations
 
 ## 📊 Key Projects
 - ISO 14001 Internal Audit Planning
