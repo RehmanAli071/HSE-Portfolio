@@ -1,6 +1,6 @@
 ![logo](https://github.com/RehmanAli071/Rehman-Ali/blob/main/Blue%20Brown%20Corporate%20Online%20Business%20Webinar%20Banner.png)
 # HSE-Portfolio
-My 7+ years of experience as a Health, Safety &amp; Environment Professional.
+My 10+ years of experience as a Health, Safety &amp; Environment.
 ## 🧑‍💼 About Me
 Experienced HSE Officer with 7+ years in workplace safety, environmental compliance, and audit readiness. Certified in NEBOSH IGC, ISO 14001, and trained in chemical safety.
 
