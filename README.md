@@ -9,21 +9,28 @@ Experienced HSE Officer with 7+ years in workplace safety, environmental complia
 ### Sapphire Mills (Jan 2025 – Present)
 - Environmental and safety audits
 - Fire drills and chemical handling training
-- Compliance with ISO 14001, ZDHC, GOTS
+- Compliance Electrical safety 
 
 ### Crescent Textile Mills (1 Year)
-- Compliance audits: SEDEX, GOTS, GRS
+- Compliance audits: ISO 45001:2018, 14001:2015
 - PPE inspection and training
+- Electrical inspections and safety trainings
 - Chemical risk assessments
 
 ### Interloop Ltd. (7 Years)
 - Health and Safety / coordinator / Supervisor
 - EHS Department
 - Overseeing toe-closing operations
+  
+  ### Rafhan Maize Products (1 Years 5 Months)
+- EHS Coordinator
+- EHS Department
+- Overseeing Electrical and safety equipments inspections
 
 ## 📊 Key Projects
-- ISO 14001 Internal Audit Planning
+- ISO 14001:2015, 45001:2018, Internal Audit Planning
 - Fire Drill Implementation with evacuation tracking
+- Electrical safety and inspections
 - SDS-based Chemical Inventory Setup
 - Monthly HSE KPIs tracking
 
